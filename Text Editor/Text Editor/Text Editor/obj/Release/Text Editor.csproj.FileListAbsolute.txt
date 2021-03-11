@@ -1,0 +1,9 @@
+C:\Users\GoldenSnitch\Desktop\Github\Text Editor\Text Editor\Text Editor\bin\Release\Text Editor.exe.config
+C:\Users\GoldenSnitch\Desktop\Github\Text Editor\Text Editor\Text Editor\bin\Release\Text Editor.exe
+C:\Users\GoldenSnitch\Desktop\Github\Text Editor\Text Editor\Text Editor\bin\Release\Text Editor.pdb
+C:\Users\GoldenSnitch\Desktop\Github\Text Editor\Text Editor\Text Editor\obj\Release\Text_Editor.Form1.resources
+C:\Users\GoldenSnitch\Desktop\Github\Text Editor\Text Editor\Text Editor\obj\Release\Text_Editor.Properties.Resources.resources
+C:\Users\GoldenSnitch\Desktop\Github\Text Editor\Text Editor\Text Editor\obj\Release\Text Editor.csproj.GenerateResource.cache
+C:\Users\GoldenSnitch\Desktop\Github\Text Editor\Text Editor\Text Editor\obj\Release\Text Editor.csproj.CoreCompileInputs.cache
+C:\Users\GoldenSnitch\Desktop\Github\Text Editor\Text Editor\Text Editor\obj\Release\Text Editor.exe
+C:\Users\GoldenSnitch\Desktop\Github\Text Editor\Text Editor\Text Editor\obj\Release\Text Editor.pdb
